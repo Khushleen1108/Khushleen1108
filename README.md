@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech CSE (AI/ML), 2025' @ Amity University Punjab  
+- 🎓 B.Tech CSE (AI/ML), 2025' @ Amity University  
 - 💼 Junior Software Engineer (AI), Chandigarh  
 - 🌱 Passionate about Machine Learning, NLP, and building AI solutions  
 
